@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "translate-bug-repro",
+    "slug": "translate-bug-repro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "translatebug",
+    "platforms": ["ios", "android"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "plugins": ["expo-router"]
+  }
+}
